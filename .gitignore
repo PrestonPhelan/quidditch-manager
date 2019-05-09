@@ -1,0 +1,3 @@
+*.sqlite3
+*/__pycache__/*
+quidditch_manager/quidditch_manager/__pycache__/
